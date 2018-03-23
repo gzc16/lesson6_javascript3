@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Gabriella Cerrato
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The object of this assignment is to understand how to access elements by ID, tag name, class, etc in
+addition to understand what happens when certain nodes are added or removed. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gzc16.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. DOM trees need proper indentation for ideal access to information!
+2. GetElementByID and getElementsByTagName return similar outputs. 
+3. Browser object model contains the document object. 
